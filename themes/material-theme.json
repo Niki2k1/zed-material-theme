@@ -228,6 +228,12 @@
                         "font_style": "italic",
                         "font_weight": null
                     },
+                    "keyword.declaration": {
+                        "color": "#C792EA",
+                        "background_color": null,
+                        "font_style": null,
+                        "font_weight": null
+                    },
                     "label": {
                         "color": "#f07178",
                         "background_color": null,
@@ -598,6 +604,12 @@
                         "color": "#89DDFF",
                         "background_color": null,
                         "font_style": "italic",
+                        "font_weight": null
+                    },
+                    "keyword.declaration": {
+                        "color": "#C792EA",
+                        "background_color": null,
+                        "font_style": null,
                         "font_weight": null
                     },
                     "label": {
@@ -972,6 +984,12 @@
                         "font_style": "italic",
                         "font_weight": null
                     },
+                    "keyword.declaration": {
+                        "color": "#C792EA",
+                        "background_color": null,
+                        "font_style": null,
+                        "font_weight": null
+                    },
                     "label": {
                         "color": "#f07178",
                         "background_color": null,
@@ -1342,6 +1360,12 @@
                         "color": "#89DDFF",
                         "background_color": null,
                         "font_style": "italic",
+                        "font_weight": null
+                    },
+                    "keyword.declaration": {
+                        "color": "#C792EA",
+                        "background_color": null,
+                        "font_style": null,
                         "font_weight": null
                     },
                     "label": {
@@ -1716,6 +1740,12 @@
                         "font_style": "italic",
                         "font_weight": null
                     },
+                    "keyword.declaration": {
+                        "color": "#A68DCD",
+                        "background_color": null,
+                        "font_style": null,
+                        "font_weight": null
+                    },
                     "label": {
                         "color": "#f07178",
                         "background_color": null,
@@ -2086,6 +2116,12 @@
                         "color": "#74C9DE",
                         "background_color": null,
                         "font_style": "italic",
+                        "font_weight": null
+                    },
+                    "keyword.declaration": {
+                        "color": "#A68DCD",
+                        "background_color": null,
+                        "font_style": null,
                         "font_weight": null
                     },
                     "label": {
@@ -2460,6 +2496,12 @@
                         "font_style": "italic",
                         "font_weight": null
                     },
+                    "keyword.declaration": {
+                        "color": "#9C3EDA",
+                        "background_color": null,
+                        "font_style": null,
+                        "font_weight": null
+                    },
                     "label": {
                         "color": "#E53935",
                         "background_color": null,
@@ -2830,6 +2872,12 @@
                         "color": "#39ADB5",
                         "background_color": null,
                         "font_style": "italic",
+                        "font_weight": null
+                    },
+                    "keyword.declaration": {
+                        "color": "#9C3EDA",
+                        "background_color": null,
+                        "font_style": null,
                         "font_weight": null
                     },
                     "label": {
@@ -3204,6 +3252,12 @@
                         "font_style": "italic",
                         "font_weight": null
                     },
+                    "keyword.declaration": {
+                        "color": "#C792EA",
+                        "background_color": null,
+                        "font_style": null,
+                        "font_weight": null
+                    },
                     "label": {
                         "color": "#f07178",
                         "background_color": null,
@@ -3574,6 +3628,12 @@
                         "color": "#89DDFF",
                         "background_color": null,
                         "font_style": "italic",
+                        "font_weight": null
+                    },
+                    "keyword.declaration": {
+                        "color": "#C792EA",
+                        "background_color": null,
+                        "font_style": null,
                         "font_weight": null
                     },
                     "label": {
@@ -3948,6 +4008,12 @@
                         "font_style": "italic",
                         "font_weight": null
                     },
+                    "keyword.declaration": {
+                        "color": "#C792EA",
+                        "background_color": null,
+                        "font_style": null,
+                        "font_weight": null
+                    },
                     "label": {
                         "color": "#f07178",
                         "background_color": null,
@@ -4318,6 +4384,12 @@
                         "color": "#89DDFF",
                         "background_color": null,
                         "font_style": "italic",
+                        "font_weight": null
+                    },
+                    "keyword.declaration": {
+                        "color": "#C792EA",
+                        "background_color": null,
+                        "font_style": null,
                         "font_weight": null
                     },
                     "label": {
