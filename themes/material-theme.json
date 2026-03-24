@@ -8,7 +8,11 @@
             "appearance": "dark",
             "style": {
                 "background.appearance": "opaque",
-                "accents": [],
+                "accents": [
+                    "#FFD700",
+                    "#DA70D6",
+                    "#179FFF"
+                ],
                 "border": "#26323860",
                 "border.variant": "#26323860",
                 "border.focused": "#FFFFFF00",
@@ -144,23 +148,7 @@
                 "warning": "#FFCB6B70",
                 "warning.background": null,
                 "warning.border": null,
-                "players": [
-                    {
-                        "cursor": "#FFD700",
-                        "background": "#FFD70020",
-                        "selection": "#FFD70030"
-                    },
-                    {
-                        "cursor": "#DA70D6",
-                        "background": "#DA70D620",
-                        "selection": "#DA70D630"
-                    },
-                    {
-                        "cursor": "#179FFF",
-                        "background": "#179FFF20",
-                        "selection": "#179FFF30"
-                    }
-                ],
+                "players": [],
                 "syntax": {
                     "attribute": {
                         "color": "#C792EA",
@@ -392,7 +380,11 @@
             "appearance": "dark",
             "style": {
                 "background.appearance": "opaque",
-                "accents": [],
+                "accents": [
+                    "#FFD700",
+                    "#DA70D6",
+                    "#179FFF"
+                ],
                 "border": "#3B4A5160",
                 "border.variant": "#3B4A5160",
                 "border.focused": "#FFFFFF00",
@@ -528,23 +520,7 @@
                 "warning": "#FFCB6B70",
                 "warning.background": null,
                 "warning.border": null,
-                "players": [
-                    {
-                        "cursor": "#FFD700",
-                        "background": "#FFD70020",
-                        "selection": "#FFD70030"
-                    },
-                    {
-                        "cursor": "#DA70D6",
-                        "background": "#DA70D620",
-                        "selection": "#DA70D630"
-                    },
-                    {
-                        "cursor": "#179FFF",
-                        "background": "#179FFF20",
-                        "selection": "#179FFF30"
-                    }
-                ],
+                "players": [],
                 "syntax": {
                     "attribute": {
                         "color": "#C792EA",
@@ -776,7 +752,11 @@
             "appearance": "dark",
             "style": {
                 "background.appearance": "opaque",
-                "accents": [],
+                "accents": [
+                    "#FFD700",
+                    "#DA70D6",
+                    "#179FFF"
+                ],
                 "border": "#21212160",
                 "border.variant": "#21212160",
                 "border.focused": "#FFFFFF00",
@@ -912,23 +892,7 @@
                 "warning": "#FFCB6B70",
                 "warning.background": null,
                 "warning.border": null,
-                "players": [
-                    {
-                        "cursor": "#FFD700",
-                        "background": "#FFD70020",
-                        "selection": "#FFD70030"
-                    },
-                    {
-                        "cursor": "#DA70D6",
-                        "background": "#DA70D620",
-                        "selection": "#DA70D630"
-                    },
-                    {
-                        "cursor": "#179FFF",
-                        "background": "#179FFF20",
-                        "selection": "#179FFF30"
-                    }
-                ],
+                "players": [],
                 "syntax": {
                     "attribute": {
                         "color": "#C792EA",
@@ -1160,7 +1124,11 @@
             "appearance": "dark",
             "style": {
                 "background.appearance": "opaque",
-                "accents": [],
+                "accents": [
+                    "#FFD700",
+                    "#DA70D6",
+                    "#179FFF"
+                ],
                 "border": "#44444460",
                 "border.variant": "#44444460",
                 "border.focused": "#FFFFFF00",
@@ -1296,23 +1264,7 @@
                 "warning": "#FFCB6B70",
                 "warning.background": null,
                 "warning.border": null,
-                "players": [
-                    {
-                        "cursor": "#FFD700",
-                        "background": "#FFD70020",
-                        "selection": "#FFD70030"
-                    },
-                    {
-                        "cursor": "#DA70D6",
-                        "background": "#DA70D620",
-                        "selection": "#DA70D630"
-                    },
-                    {
-                        "cursor": "#179FFF",
-                        "background": "#179FFF20",
-                        "selection": "#179FFF30"
-                    }
-                ],
+                "players": [],
                 "syntax": {
                     "attribute": {
                         "color": "#C792EA",
@@ -1544,7 +1496,11 @@
             "appearance": "dark",
             "style": {
                 "background.appearance": "opaque",
-                "accents": [],
+                "accents": [
+                    "#FFD700",
+                    "#DA70D6",
+                    "#179FFF"
+                ],
                 "border": "#141F1D60",
                 "border.variant": "#141F1D60",
                 "border.focused": "#FFFFFF00",
@@ -1680,23 +1636,7 @@
                 "warning": "#FFCB6B70",
                 "warning.background": null,
                 "warning.border": null,
-                "players": [
-                    {
-                        "cursor": "#FFD700",
-                        "background": "#FFD70020",
-                        "selection": "#FFD70030"
-                    },
-                    {
-                        "cursor": "#DA70D6",
-                        "background": "#DA70D620",
-                        "selection": "#DA70D630"
-                    },
-                    {
-                        "cursor": "#179FFF",
-                        "background": "#179FFF20",
-                        "selection": "#179FFF30"
-                    }
-                ],
+                "players": [],
                 "syntax": {
                     "attribute": {
                         "color": "#A68DCD",
@@ -1928,7 +1868,11 @@
             "appearance": "dark",
             "style": {
                 "background.appearance": "opaque",
-                "accents": [],
+                "accents": [
+                    "#FFD700",
+                    "#DA70D6",
+                    "#179FFF"
+                ],
                 "border": "#2C423A60",
                 "border.variant": "#2C423A60",
                 "border.focused": "#FFFFFF00",
@@ -2064,23 +2008,7 @@
                 "warning": "#FFCB6B70",
                 "warning.background": null,
                 "warning.border": null,
-                "players": [
-                    {
-                        "cursor": "#FFD700",
-                        "background": "#FFD70020",
-                        "selection": "#FFD70030"
-                    },
-                    {
-                        "cursor": "#DA70D6",
-                        "background": "#DA70D620",
-                        "selection": "#DA70D630"
-                    },
-                    {
-                        "cursor": "#179FFF",
-                        "background": "#179FFF20",
-                        "selection": "#179FFF30"
-                    }
-                ],
+                "players": [],
                 "syntax": {
                     "attribute": {
                         "color": "#A68DCD",
@@ -2312,7 +2240,11 @@
             "appearance": "light",
             "style": {
                 "background.appearance": "opaque",
-                "accents": [],
+                "accents": [
+                    "#FFD700",
+                    "#DA70D6",
+                    "#179FFF"
+                ],
                 "border": "#FAFAFA60",
                 "border.variant": "#FAFAFA60",
                 "border.focused": "#FFFFFF00",
@@ -2448,23 +2380,7 @@
                 "warning": "#E2931D70",
                 "warning.background": null,
                 "warning.border": null,
-                "players": [
-                    {
-                        "cursor": "#FFD700",
-                        "background": "#FFD70020",
-                        "selection": "#FFD70030"
-                    },
-                    {
-                        "cursor": "#DA70D6",
-                        "background": "#DA70D620",
-                        "selection": "#DA70D630"
-                    },
-                    {
-                        "cursor": "#179FFF",
-                        "background": "#179FFF20",
-                        "selection": "#179FFF30"
-                    }
-                ],
+                "players": [],
                 "syntax": {
                     "attribute": {
                         "color": "#9C3EDA",
@@ -2696,7 +2612,11 @@
             "appearance": "light",
             "style": {
                 "background.appearance": "opaque",
-                "accents": [],
+                "accents": [
+                    "#FFD700",
+                    "#DA70D6",
+                    "#179FFF"
+                ],
                 "border": "#C1C1C160",
                 "border.variant": "#C1C1C160",
                 "border.focused": "#FFFFFF00",
@@ -2832,23 +2752,7 @@
                 "warning": "#E2931D70",
                 "warning.background": null,
                 "warning.border": null,
-                "players": [
-                    {
-                        "cursor": "#FFD700",
-                        "background": "#FFD70020",
-                        "selection": "#FFD70030"
-                    },
-                    {
-                        "cursor": "#DA70D6",
-                        "background": "#DA70D620",
-                        "selection": "#DA70D630"
-                    },
-                    {
-                        "cursor": "#179FFF",
-                        "background": "#179FFF20",
-                        "selection": "#179FFF30"
-                    }
-                ],
+                "players": [],
                 "syntax": {
                     "attribute": {
                         "color": "#9C3EDA",
@@ -3080,7 +2984,11 @@
             "appearance": "dark",
             "style": {
                 "background.appearance": "opaque",
-                "accents": [],
+                "accents": [
+                    "#FFD700",
+                    "#DA70D6",
+                    "#179FFF"
+                ],
                 "border": "#0F111A60",
                 "border.variant": "#0F111A60",
                 "border.focused": "#FFFFFF00",
@@ -3216,23 +3124,7 @@
                 "warning": "#FFCB6B70",
                 "warning.background": null,
                 "warning.border": null,
-                "players": [
-                    {
-                        "cursor": "#FFD700",
-                        "background": "#FFD70020",
-                        "selection": "#FFD70030"
-                    },
-                    {
-                        "cursor": "#DA70D6",
-                        "background": "#DA70D620",
-                        "selection": "#DA70D630"
-                    },
-                    {
-                        "cursor": "#179FFF",
-                        "background": "#179FFF20",
-                        "selection": "#179FFF30"
-                    }
-                ],
+                "players": [],
                 "syntax": {
                     "attribute": {
                         "color": "#C792EA",
@@ -3464,7 +3356,11 @@
             "appearance": "dark",
             "style": {
                 "background.appearance": "opaque",
-                "accents": [],
+                "accents": [
+                    "#FFD700",
+                    "#DA70D6",
+                    "#179FFF"
+                ],
                 "border": "#3E445D60",
                 "border.variant": "#3E445D60",
                 "border.focused": "#FFFFFF00",
@@ -3600,23 +3496,7 @@
                 "warning": "#FFCB6B70",
                 "warning.background": null,
                 "warning.border": null,
-                "players": [
-                    {
-                        "cursor": "#FFD700",
-                        "background": "#FFD70020",
-                        "selection": "#FFD70030"
-                    },
-                    {
-                        "cursor": "#DA70D6",
-                        "background": "#DA70D620",
-                        "selection": "#DA70D630"
-                    },
-                    {
-                        "cursor": "#179FFF",
-                        "background": "#179FFF20",
-                        "selection": "#179FFF30"
-                    }
-                ],
+                "players": [],
                 "syntax": {
                     "attribute": {
                         "color": "#C792EA",
@@ -3848,7 +3728,11 @@
             "appearance": "dark",
             "style": {
                 "background.appearance": "opaque",
-                "accents": [],
+                "accents": [
+                    "#FFD700",
+                    "#DA70D6",
+                    "#179FFF"
+                ],
                 "border": "#292D3E60",
                 "border.variant": "#292D3E60",
                 "border.focused": "#FFFFFF00",
@@ -3984,23 +3868,7 @@
                 "warning": "#FFCB6B70",
                 "warning.background": null,
                 "warning.border": null,
-                "players": [
-                    {
-                        "cursor": "#FFD700",
-                        "background": "#FFD70020",
-                        "selection": "#FFD70030"
-                    },
-                    {
-                        "cursor": "#DA70D6",
-                        "background": "#DA70D620",
-                        "selection": "#DA70D630"
-                    },
-                    {
-                        "cursor": "#179FFF",
-                        "background": "#179FFF20",
-                        "selection": "#179FFF30"
-                    }
-                ],
+                "players": [],
                 "syntax": {
                     "attribute": {
                         "color": "#C792EA",
@@ -4232,7 +4100,11 @@
             "appearance": "dark",
             "style": {
                 "background.appearance": "opaque",
-                "accents": [],
+                "accents": [
+                    "#FFD700",
+                    "#DA70D6",
+                    "#179FFF"
+                ],
                 "border": "#424A6C60",
                 "border.variant": "#424A6C60",
                 "border.focused": "#FFFFFF00",
@@ -4368,23 +4240,7 @@
                 "warning": "#FFCB6B70",
                 "warning.background": null,
                 "warning.border": null,
-                "players": [
-                    {
-                        "cursor": "#FFD700",
-                        "background": "#FFD70020",
-                        "selection": "#FFD70030"
-                    },
-                    {
-                        "cursor": "#DA70D6",
-                        "background": "#DA70D620",
-                        "selection": "#DA70D630"
-                    },
-                    {
-                        "cursor": "#179FFF",
-                        "background": "#179FFF20",
-                        "selection": "#179FFF30"
-                    }
-                ],
+                "players": [],
                 "syntax": {
                     "attribute": {
                         "color": "#C792EA",
