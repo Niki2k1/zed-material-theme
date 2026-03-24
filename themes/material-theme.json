@@ -144,7 +144,23 @@
                 "warning": "#FFCB6B70",
                 "warning.background": null,
                 "warning.border": null,
-                "players": [],
+                "players": [
+                    {
+                        "cursor": "#FFD700",
+                        "background": "#FFD70020",
+                        "selection": "#FFD70030"
+                    },
+                    {
+                        "cursor": "#DA70D6",
+                        "background": "#DA70D620",
+                        "selection": "#DA70D630"
+                    },
+                    {
+                        "cursor": "#179FFF",
+                        "background": "#179FFF20",
+                        "selection": "#179FFF30"
+                    }
+                ],
                 "syntax": {
                     "attribute": {
                         "color": "#C792EA",
@@ -512,7 +528,23 @@
                 "warning": "#FFCB6B70",
                 "warning.background": null,
                 "warning.border": null,
-                "players": [],
+                "players": [
+                    {
+                        "cursor": "#FFD700",
+                        "background": "#FFD70020",
+                        "selection": "#FFD70030"
+                    },
+                    {
+                        "cursor": "#DA70D6",
+                        "background": "#DA70D620",
+                        "selection": "#DA70D630"
+                    },
+                    {
+                        "cursor": "#179FFF",
+                        "background": "#179FFF20",
+                        "selection": "#179FFF30"
+                    }
+                ],
                 "syntax": {
                     "attribute": {
                         "color": "#C792EA",
@@ -880,7 +912,23 @@
                 "warning": "#FFCB6B70",
                 "warning.background": null,
                 "warning.border": null,
-                "players": [],
+                "players": [
+                    {
+                        "cursor": "#FFD700",
+                        "background": "#FFD70020",
+                        "selection": "#FFD70030"
+                    },
+                    {
+                        "cursor": "#DA70D6",
+                        "background": "#DA70D620",
+                        "selection": "#DA70D630"
+                    },
+                    {
+                        "cursor": "#179FFF",
+                        "background": "#179FFF20",
+                        "selection": "#179FFF30"
+                    }
+                ],
                 "syntax": {
                     "attribute": {
                         "color": "#C792EA",
@@ -1248,7 +1296,23 @@
                 "warning": "#FFCB6B70",
                 "warning.background": null,
                 "warning.border": null,
-                "players": [],
+                "players": [
+                    {
+                        "cursor": "#FFD700",
+                        "background": "#FFD70020",
+                        "selection": "#FFD70030"
+                    },
+                    {
+                        "cursor": "#DA70D6",
+                        "background": "#DA70D620",
+                        "selection": "#DA70D630"
+                    },
+                    {
+                        "cursor": "#179FFF",
+                        "background": "#179FFF20",
+                        "selection": "#179FFF30"
+                    }
+                ],
                 "syntax": {
                     "attribute": {
                         "color": "#C792EA",
@@ -1616,7 +1680,23 @@
                 "warning": "#FFCB6B70",
                 "warning.background": null,
                 "warning.border": null,
-                "players": [],
+                "players": [
+                    {
+                        "cursor": "#FFD700",
+                        "background": "#FFD70020",
+                        "selection": "#FFD70030"
+                    },
+                    {
+                        "cursor": "#DA70D6",
+                        "background": "#DA70D620",
+                        "selection": "#DA70D630"
+                    },
+                    {
+                        "cursor": "#179FFF",
+                        "background": "#179FFF20",
+                        "selection": "#179FFF30"
+                    }
+                ],
                 "syntax": {
                     "attribute": {
                         "color": "#A68DCD",
@@ -1984,7 +2064,23 @@
                 "warning": "#FFCB6B70",
                 "warning.background": null,
                 "warning.border": null,
-                "players": [],
+                "players": [
+                    {
+                        "cursor": "#FFD700",
+                        "background": "#FFD70020",
+                        "selection": "#FFD70030"
+                    },
+                    {
+                        "cursor": "#DA70D6",
+                        "background": "#DA70D620",
+                        "selection": "#DA70D630"
+                    },
+                    {
+                        "cursor": "#179FFF",
+                        "background": "#179FFF20",
+                        "selection": "#179FFF30"
+                    }
+                ],
                 "syntax": {
                     "attribute": {
                         "color": "#A68DCD",
@@ -2352,7 +2448,23 @@
                 "warning": "#E2931D70",
                 "warning.background": null,
                 "warning.border": null,
-                "players": [],
+                "players": [
+                    {
+                        "cursor": "#FFD700",
+                        "background": "#FFD70020",
+                        "selection": "#FFD70030"
+                    },
+                    {
+                        "cursor": "#DA70D6",
+                        "background": "#DA70D620",
+                        "selection": "#DA70D630"
+                    },
+                    {
+                        "cursor": "#179FFF",
+                        "background": "#179FFF20",
+                        "selection": "#179FFF30"
+                    }
+                ],
                 "syntax": {
                     "attribute": {
                         "color": "#9C3EDA",
@@ -2720,7 +2832,23 @@
                 "warning": "#E2931D70",
                 "warning.background": null,
                 "warning.border": null,
-                "players": [],
+                "players": [
+                    {
+                        "cursor": "#FFD700",
+                        "background": "#FFD70020",
+                        "selection": "#FFD70030"
+                    },
+                    {
+                        "cursor": "#DA70D6",
+                        "background": "#DA70D620",
+                        "selection": "#DA70D630"
+                    },
+                    {
+                        "cursor": "#179FFF",
+                        "background": "#179FFF20",
+                        "selection": "#179FFF30"
+                    }
+                ],
                 "syntax": {
                     "attribute": {
                         "color": "#9C3EDA",
@@ -3088,7 +3216,23 @@
                 "warning": "#FFCB6B70",
                 "warning.background": null,
                 "warning.border": null,
-                "players": [],
+                "players": [
+                    {
+                        "cursor": "#FFD700",
+                        "background": "#FFD70020",
+                        "selection": "#FFD70030"
+                    },
+                    {
+                        "cursor": "#DA70D6",
+                        "background": "#DA70D620",
+                        "selection": "#DA70D630"
+                    },
+                    {
+                        "cursor": "#179FFF",
+                        "background": "#179FFF20",
+                        "selection": "#179FFF30"
+                    }
+                ],
                 "syntax": {
                     "attribute": {
                         "color": "#C792EA",
@@ -3456,7 +3600,23 @@
                 "warning": "#FFCB6B70",
                 "warning.background": null,
                 "warning.border": null,
-                "players": [],
+                "players": [
+                    {
+                        "cursor": "#FFD700",
+                        "background": "#FFD70020",
+                        "selection": "#FFD70030"
+                    },
+                    {
+                        "cursor": "#DA70D6",
+                        "background": "#DA70D620",
+                        "selection": "#DA70D630"
+                    },
+                    {
+                        "cursor": "#179FFF",
+                        "background": "#179FFF20",
+                        "selection": "#179FFF30"
+                    }
+                ],
                 "syntax": {
                     "attribute": {
                         "color": "#C792EA",
@@ -3824,7 +3984,23 @@
                 "warning": "#FFCB6B70",
                 "warning.background": null,
                 "warning.border": null,
-                "players": [],
+                "players": [
+                    {
+                        "cursor": "#FFD700",
+                        "background": "#FFD70020",
+                        "selection": "#FFD70030"
+                    },
+                    {
+                        "cursor": "#DA70D6",
+                        "background": "#DA70D620",
+                        "selection": "#DA70D630"
+                    },
+                    {
+                        "cursor": "#179FFF",
+                        "background": "#179FFF20",
+                        "selection": "#179FFF30"
+                    }
+                ],
                 "syntax": {
                     "attribute": {
                         "color": "#C792EA",
@@ -4192,7 +4368,23 @@
                 "warning": "#FFCB6B70",
                 "warning.background": null,
                 "warning.border": null,
-                "players": [],
+                "players": [
+                    {
+                        "cursor": "#FFD700",
+                        "background": "#FFD70020",
+                        "selection": "#FFD70030"
+                    },
+                    {
+                        "cursor": "#DA70D6",
+                        "background": "#DA70D620",
+                        "selection": "#DA70D630"
+                    },
+                    {
+                        "cursor": "#179FFF",
+                        "background": "#179FFF20",
+                        "selection": "#179FFF30"
+                    }
+                ],
                 "syntax": {
                     "attribute": {
                         "color": "#C792EA",
