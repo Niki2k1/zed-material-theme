@@ -145,9 +145,9 @@
                 "unreachable": null,
                 "unreachable.background": null,
                 "unreachable.border": null,
-                "warning": "#FFCB6B70",
-                "warning.background": null,
-                "warning.border": null,
+                "warning": "#FFCB6B",
+                "warning.background": "#FFCB6B1A",
+                "warning.border": "#FFCB6B",
                 "players": [],
                 "syntax": {
                     "attribute": {
@@ -523,9 +523,9 @@
                 "unreachable": null,
                 "unreachable.background": null,
                 "unreachable.border": null,
-                "warning": "#FFCB6B70",
-                "warning.background": null,
-                "warning.border": null,
+                "warning": "#FFCB6B",
+                "warning.background": "#FFCB6B1A",
+                "warning.border": "#FFCB6B",
                 "players": [],
                 "syntax": {
                     "attribute": {
@@ -901,9 +901,9 @@
                 "unreachable": null,
                 "unreachable.background": null,
                 "unreachable.border": null,
-                "warning": "#FFCB6B70",
-                "warning.background": null,
-                "warning.border": null,
+                "warning": "#FFCB6B",
+                "warning.background": "#FFCB6B1A",
+                "warning.border": "#FFCB6B",
                 "players": [],
                 "syntax": {
                     "attribute": {
@@ -1279,9 +1279,9 @@
                 "unreachable": null,
                 "unreachable.background": null,
                 "unreachable.border": null,
-                "warning": "#FFCB6B70",
-                "warning.background": null,
-                "warning.border": null,
+                "warning": "#FFCB6B",
+                "warning.background": "#FFCB6B1A",
+                "warning.border": "#FFCB6B",
                 "players": [],
                 "syntax": {
                     "attribute": {
@@ -1657,9 +1657,9 @@
                 "unreachable": null,
                 "unreachable.background": null,
                 "unreachable.border": null,
-                "warning": "#FFCB6B70",
-                "warning.background": null,
-                "warning.border": null,
+                "warning": "#FFCB6B",
+                "warning.background": "#FFCB6B1A",
+                "warning.border": "#FFCB6B",
                 "players": [],
                 "syntax": {
                     "attribute": {
@@ -2035,9 +2035,9 @@
                 "unreachable": null,
                 "unreachable.background": null,
                 "unreachable.border": null,
-                "warning": "#FFCB6B70",
-                "warning.background": null,
-                "warning.border": null,
+                "warning": "#FFCB6B",
+                "warning.background": "#FFCB6B1A",
+                "warning.border": "#FFCB6B",
                 "players": [],
                 "syntax": {
                     "attribute": {
@@ -2413,9 +2413,9 @@
                 "unreachable": null,
                 "unreachable.background": null,
                 "unreachable.border": null,
-                "warning": "#E2931D70",
-                "warning.background": null,
-                "warning.border": null,
+                "warning": "#E2931D",
+                "warning.background": "#E2931D1A",
+                "warning.border": "#E2931D",
                 "players": [],
                 "syntax": {
                     "attribute": {
@@ -2791,9 +2791,9 @@
                 "unreachable": null,
                 "unreachable.background": null,
                 "unreachable.border": null,
-                "warning": "#E2931D70",
-                "warning.background": null,
-                "warning.border": null,
+                "warning": "#E2931D",
+                "warning.background": "#E2931D1A",
+                "warning.border": "#E2931D",
                 "players": [],
                 "syntax": {
                     "attribute": {
@@ -3169,9 +3169,9 @@
                 "unreachable": null,
                 "unreachable.background": null,
                 "unreachable.border": null,
-                "warning": "#FFCB6B70",
-                "warning.background": null,
-                "warning.border": null,
+                "warning": "#FFCB6B",
+                "warning.background": "#FFCB6B1A",
+                "warning.border": "#FFCB6B",
                 "players": [],
                 "syntax": {
                     "attribute": {
@@ -3547,9 +3547,9 @@
                 "unreachable": null,
                 "unreachable.background": null,
                 "unreachable.border": null,
-                "warning": "#FFCB6B70",
-                "warning.background": null,
-                "warning.border": null,
+                "warning": "#FFCB6B",
+                "warning.background": "#FFCB6B1A",
+                "warning.border": "#FFCB6B",
                 "players": [],
                 "syntax": {
                     "attribute": {
@@ -3925,9 +3925,9 @@
                 "unreachable": null,
                 "unreachable.background": null,
                 "unreachable.border": null,
-                "warning": "#FFCB6B70",
-                "warning.background": null,
-                "warning.border": null,
+                "warning": "#FFCB6B",
+                "warning.background": "#FFCB6B1A",
+                "warning.border": "#FFCB6B",
                 "players": [],
                 "syntax": {
                     "attribute": {
@@ -4303,9 +4303,9 @@
                 "unreachable": null,
                 "unreachable.background": null,
                 "unreachable.border": null,
-                "warning": "#FFCB6B70",
-                "warning.background": null,
-                "warning.border": null,
+                "warning": "#FFCB6B",
+                "warning.background": "#FFCB6B1A",
+                "warning.border": "#FFCB6B",
                 "players": [],
                 "syntax": {
                     "attribute": {
