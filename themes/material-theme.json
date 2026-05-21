@@ -50,7 +50,7 @@
                 "tab_bar.background": "#263238",
                 "tab.inactive_background": "#263238",
                 "tab.active_background": "#263238",
-                "search.match_background": null,
+                "search.match_background": "#FFD70066",
                 "panel.background": "#263238",
                 "panel.focused_border": null,
                 "pane.focused_border": null,
@@ -148,7 +148,13 @@
                 "warning": "#FFCB6B",
                 "warning.background": "#FFCB6B1A",
                 "warning.border": "#FFCB6B",
-                "players": [],
+                "players": [
+                    {
+                        "cursor": "#FFD700",
+                        "background": "#80CBC4",
+                        "selection": "#80CBC466"
+                    }
+                ],
                 "syntax": {
                     "attribute": {
                         "color": "#C792EA",
@@ -428,7 +434,7 @@
                 "tab_bar.background": "#263238",
                 "tab.inactive_background": "#263238",
                 "tab.active_background": "#263238",
-                "search.match_background": null,
+                "search.match_background": "#FFD70066",
                 "panel.background": "#192227",
                 "panel.focused_border": null,
                 "pane.focused_border": null,
@@ -526,7 +532,13 @@
                 "warning": "#FFCB6B",
                 "warning.background": "#FFCB6B1A",
                 "warning.border": "#FFCB6B",
-                "players": [],
+                "players": [
+                    {
+                        "cursor": "#FFD700",
+                        "background": "#80CBC4",
+                        "selection": "#80CBC466"
+                    }
+                ],
                 "syntax": {
                     "attribute": {
                         "color": "#C792EA",
@@ -806,7 +818,7 @@
                 "tab_bar.background": "#212121",
                 "tab.inactive_background": "#212121",
                 "tab.active_background": "#212121",
-                "search.match_background": null,
+                "search.match_background": "#FFD70066",
                 "panel.background": "#212121",
                 "panel.focused_border": null,
                 "pane.focused_border": null,
@@ -904,7 +916,13 @@
                 "warning": "#FFCB6B",
                 "warning.background": "#FFCB6B1A",
                 "warning.border": "#FFCB6B",
-                "players": [],
+                "players": [
+                    {
+                        "cursor": "#FFD700",
+                        "background": "#616161",
+                        "selection": "#61616199"
+                    }
+                ],
                 "syntax": {
                     "attribute": {
                         "color": "#C792EA",
@@ -1184,7 +1202,7 @@
                 "tab_bar.background": "#212121",
                 "tab.inactive_background": "#212121",
                 "tab.active_background": "#212121",
-                "search.match_background": null,
+                "search.match_background": "#FFD70066",
                 "panel.background": "#1a1a1a",
                 "panel.focused_border": null,
                 "pane.focused_border": null,
@@ -1282,7 +1300,13 @@
                 "warning": "#FFCB6B",
                 "warning.background": "#FFCB6B1A",
                 "warning.border": "#FFCB6B",
-                "players": [],
+                "players": [
+                    {
+                        "cursor": "#FFD700",
+                        "background": "#616161",
+                        "selection": "#61616199"
+                    }
+                ],
                 "syntax": {
                     "attribute": {
                         "color": "#C792EA",
@@ -1562,7 +1586,7 @@
                 "tab_bar.background": "#141F1D",
                 "tab.inactive_background": "#141F1D",
                 "tab.active_background": "#141F1D",
-                "search.match_background": null,
+                "search.match_background": "#FFD70066",
                 "panel.background": "#141F1D",
                 "panel.focused_border": null,
                 "pane.focused_border": null,
@@ -1660,7 +1684,13 @@
                 "warning": "#FFCB6B",
                 "warning.background": "#FFCB6B1A",
                 "warning.border": "#FFCB6B",
-                "players": [],
+                "players": [
+                    {
+                        "cursor": "#FFD700",
+                        "background": "#71B480",
+                        "selection": "#71B48066"
+                    }
+                ],
                 "syntax": {
                     "attribute": {
                         "color": "#A68DCD",
@@ -1940,7 +1970,7 @@
                 "tab_bar.background": "#141F1D",
                 "tab.inactive_background": "#141F1D",
                 "tab.active_background": "#141F1D",
-                "search.match_background": null,
+                "search.match_background": "#FFD70066",
                 "panel.background": "#101917",
                 "panel.focused_border": null,
                 "pane.focused_border": null,
@@ -2038,7 +2068,13 @@
                 "warning": "#FFCB6B",
                 "warning.background": "#FFCB6B1A",
                 "warning.border": "#FFCB6B",
-                "players": [],
+                "players": [
+                    {
+                        "cursor": "#FFD700",
+                        "background": "#71B480",
+                        "selection": "#71B48066"
+                    }
+                ],
                 "syntax": {
                     "attribute": {
                         "color": "#A68DCD",
@@ -2318,7 +2354,7 @@
                 "tab_bar.background": "#FAFAFA",
                 "tab.inactive_background": "#FAFAFA",
                 "tab.active_background": "#FAFAFA",
-                "search.match_background": null,
+                "search.match_background": "#FFD70080",
                 "panel.background": "#FAFAFA",
                 "panel.focused_border": null,
                 "pane.focused_border": null,
@@ -2416,7 +2452,13 @@
                 "warning": "#E2931D",
                 "warning.background": "#E2931D1A",
                 "warning.border": "#E2931D",
-                "players": [],
+                "players": [
+                    {
+                        "cursor": "#FFD700",
+                        "background": "#80CBC4",
+                        "selection": "#80CBC480"
+                    }
+                ],
                 "syntax": {
                     "attribute": {
                         "color": "#9C3EDA",
@@ -2696,7 +2738,7 @@
                 "tab_bar.background": "#FFFFFF",
                 "tab.inactive_background": "#FFFFFF",
                 "tab.active_background": "#FFFFFF",
-                "search.match_background": null,
+                "search.match_background": "#FFD70080",
                 "panel.background": "#FAFAFA",
                 "panel.focused_border": null,
                 "pane.focused_border": null,
@@ -2794,7 +2836,13 @@
                 "warning": "#E2931D",
                 "warning.background": "#E2931D1A",
                 "warning.border": "#E2931D",
-                "players": [],
+                "players": [
+                    {
+                        "cursor": "#FFD700",
+                        "background": "#80CBC4",
+                        "selection": "#80CBC480"
+                    }
+                ],
                 "syntax": {
                     "attribute": {
                         "color": "#9C3EDA",
@@ -3074,7 +3122,7 @@
                 "tab_bar.background": "#0F111A",
                 "tab.inactive_background": "#0F111A",
                 "tab.active_background": "#0F111A",
-                "search.match_background": null,
+                "search.match_background": "#FFD70066",
                 "panel.background": "#0F111A",
                 "panel.focused_border": null,
                 "pane.focused_border": null,
@@ -3172,7 +3220,13 @@
                 "warning": "#FFCB6B",
                 "warning.background": "#FFCB6B1A",
                 "warning.border": "#FFCB6B",
-                "players": [],
+                "players": [
+                    {
+                        "cursor": "#FFD700",
+                        "background": "#717CB4",
+                        "selection": "#717CB466"
+                    }
+                ],
                 "syntax": {
                     "attribute": {
                         "color": "#C792EA",
@@ -3452,7 +3506,7 @@
                 "tab_bar.background": "#0F111A",
                 "tab.inactive_background": "#0F111A",
                 "tab.active_background": "#0F111A",
-                "search.match_background": null,
+                "search.match_background": "#FFD70066",
                 "panel.background": "#090B10",
                 "panel.focused_border": null,
                 "pane.focused_border": null,
@@ -3550,7 +3604,13 @@
                 "warning": "#FFCB6B",
                 "warning.background": "#FFCB6B1A",
                 "warning.border": "#FFCB6B",
-                "players": [],
+                "players": [
+                    {
+                        "cursor": "#FFD700",
+                        "background": "#717CB4",
+                        "selection": "#717CB466"
+                    }
+                ],
                 "syntax": {
                     "attribute": {
                         "color": "#C792EA",
@@ -3830,7 +3890,7 @@
                 "tab_bar.background": "#292D3E",
                 "tab.inactive_background": "#292D3E",
                 "tab.active_background": "#292D3E",
-                "search.match_background": null,
+                "search.match_background": "#FFD70066",
                 "panel.background": "#292D3E",
                 "panel.focused_border": null,
                 "pane.focused_border": null,
@@ -3928,7 +3988,13 @@
                 "warning": "#FFCB6B",
                 "warning.background": "#FFCB6B1A",
                 "warning.border": "#FFCB6B",
-                "players": [],
+                "players": [
+                    {
+                        "cursor": "#FFD700",
+                        "background": "#717CB4",
+                        "selection": "#717CB466"
+                    }
+                ],
                 "syntax": {
                     "attribute": {
                         "color": "#C792EA",
@@ -4208,7 +4274,7 @@
                 "tab_bar.background": "#292D3E",
                 "tab.inactive_background": "#292D3E",
                 "tab.active_background": "#292D3E",
-                "search.match_background": null,
+                "search.match_background": "#FFD70066",
                 "panel.background": "#1B1E2B",
                 "panel.focused_border": null,
                 "pane.focused_border": null,
@@ -4306,7 +4372,13 @@
                 "warning": "#FFCB6B",
                 "warning.background": "#FFCB6B1A",
                 "warning.border": "#FFCB6B",
-                "players": [],
+                "players": [
+                    {
+                        "cursor": "#FFD700",
+                        "background": "#717CB4",
+                        "selection": "#717CB466"
+                    }
+                ],
                 "syntax": {
                     "attribute": {
                         "color": "#C792EA",
